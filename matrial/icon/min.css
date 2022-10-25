@@ -26,23 +26,4 @@
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
 }
-.title {
-  text-align: center;
-  color: #6976bb;
-  filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
-}
 
-.afo-icons {
-    font-size: 2.5rem;
-    color: #978edd;
-    filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
-    margin: 1rem;
-    border: 5px solid;
-    border-radius: 10%;
-    padding: 5px;
-}
-.afo-icons:hover {
-  cursor: pointer;
-  filter: drop-shadow(-3px -3px 1px #a3b1c6) drop-shadow(3px 3px 1px #ffffff);
-}
-/*# sourceMappingURL=parrot-icon/min.css */
