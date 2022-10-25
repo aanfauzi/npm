@@ -1,8 +1,8 @@
 /*!
- * aanfauziorg.css (https://github.com/aanfauzi)
- * Parrot.css By Aan Fauzi
+ * aanfauziorg.css (https://github.com/aanfauzi/)
+ * AFO Icon UI Design By Aan Fauzi (https://www.facebook.com/aanfauzi.org)
  * Copyright 2017-2022 Facebook, Inc.
- * Licensed under MIT (https://github.com/parrotcss/npm/blob/main/LICENSE)
+ * Licensed under MIT (https://github.com/aanfauzi/npm/blob/main/LICENSE)
  */
 let i_list = [
   "compare_arrows",
