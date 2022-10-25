@@ -1,18 +1,18 @@
 /*!
- * Parrot.css (https://github.com/parrotcss)
- * Parrot Icon UI Design By Aan Fauzi (https://www.facebook.com/aanfauzi.org)
+ * aanfauziorg.css (https://github.com/aanfauzi/)
+ * AFO Icon UI Design By Aan Fauzi (https://www.facebook.com/aanfauzi.org)
  * Copyright 2017-2022 Facebook, Inc.
- * Licensed under MIT (https://github.com/parrotcss/npm/blob/main/LICENSE)
+ * Licensed under MIT (https://github.com/aanfauzi/npm/blob/main/LICENSE)
  */
 @font-face {
-  font-family: 'Parrot Icons';
+  font-family: 'AFO Icons';
   font-style: normal;
   font-weight: 400;
   src: url(https://cdn.jsdelivr.net/gh/aanfauzi/npm@main/matrial/icon/afo-font.woff2) format('woff2');
 }
 
-.parrot-icons {
-  font-family: 'Parrot Icons';
+.afo-icons {
+  font-family: 'AFO Icons';
   font-weight: normal;
   font-style: normal;
   font-size: 24px;
@@ -32,7 +32,7 @@
   filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
 }
 
-.parrot-icons {
+.afo-icons {
     font-size: 2.5rem;
     color: #8e9add;
     filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
@@ -41,7 +41,7 @@
     border-radius: 10%;
     padding: 5px;
 }
-.parrot-icons:hover {
+.afo-icons:hover {
   cursor: pointer;
   filter: drop-shadow(-3px -3px 1px #a3b1c6) drop-shadow(3px 3px 1px #ffffff);
 }
